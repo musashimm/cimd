@@ -1,3 +1,5 @@
+[![Dependency Status](https://gemnasium.com/musashimm/cimd.png)](https://gemnasium.com/musashimm/cimd)
+[![Build Status](https://secure.travis-ci.org/musashimm/cimd.png)](http://travis-ci.org/musashimm/cimd)
 [![Code Climate](https://codeclimate.com/badge.png)](https://codeclimate.com/github/musashimm/cimd)
 
 CIMD
